@@ -1,10 +1,10 @@
 ## Welcom, I'm Kalmaniii! 👋
 
-I am a passionate Embedded Software Engineer who loves working with FPGA's and Microcontrollers. My journey in tech started when I graduated with my B.S. in Computer Engineering. Since then, I have worked on various projects that combine briding the gap between hardware and software.
+I am a passionate Embedded Software Engineer who loves working with FPGA's and Microcontrollers.
 
 ### 🚀 My Focus
 
-Currently, I am focusing on System on Chip design and other Embedded Systems related projects. I’m always excited to learn and explore new technologies and languages that push the boundaries of what’s possible.
+Currently, I am focusing on System on Chip design and other Embedded Systems related projects.
 
 ### 💻 Skills & Technologies
 
@@ -12,7 +12,6 @@ Currently, I am focusing on System on Chip design and other Embedded Systems rel
 - **Tools**: Git, SVN, Arduino
 - **Protocols**: SPI, I2C, UART, and RS-232
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
@@ -23,6 +22,7 @@ Currently, I am focusing on System on Chip design and other Embedded Systems rel
 </p>
 
 <!--
+<h3 align="left">Languages and Tools:</h3>
 ### 🌱 I’m currently learning
 
 - [What are you learning or exploring right now?]
