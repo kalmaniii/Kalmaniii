@@ -1,4 +1,4 @@
-## Welcom, I'm Kalmaniii! 👋
+## Welcome, I'm Kalmaniii! 👋
 
 I am a passionate Embedded Software Engineer who loves working with FPGA's and Microcontrollers.
 
